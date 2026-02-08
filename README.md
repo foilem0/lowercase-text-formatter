@@ -26,7 +26,7 @@ You know that meme about guys that type in all lowercase? Well this Python appli
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/lowercase-text-formatter.git
+   git clone https://github.com/foilem0/lowercase-text-formatter.git
    cd lowercase-text-formatter
    ```
 
